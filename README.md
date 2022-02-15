@@ -1,1 +1,0 @@
-# Getting-Started-with-AWS-IoT-core-Guide-for-Moxa-V2403C-series-computer
